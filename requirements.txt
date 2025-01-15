@@ -13,3 +13,7 @@ streamlit
 langchain_groq
 sentence-transformers
 langchain_chroma
+validators==0.28.1
+youtube_transcript_api
+unstructured
+pytube
